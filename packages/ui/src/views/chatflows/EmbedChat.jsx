@@ -144,7 +144,7 @@ const chatwindowConfig = (isReact = false) => {
                         textColor: '#303235',
                         text: 'Powered by',
                         company: 'preezie',
-                        companyLink: 'https://flowiseai.com',
+                        companyLink: 'https://preezie.com/',
                     }
                 }`
         : `chatWindow: {
@@ -185,7 +185,7 @@ const chatwindowConfig = (isReact = false) => {
                     textColor: '#303235',
                     text: 'Powered by',
                     company: 'preezie',
-                    companyLink: 'https://flowiseai.com',
+                    companyLink: 'https://preezie.com/',
                 }
             }`
 }
