@@ -143,7 +143,7 @@ const chatwindowConfig = (isReact = false) => {
                     footer: {
                         textColor: '#303235',
                         text: 'Powered by',
-                        company: 'Flowise',
+                        company: 'preezie',
                         companyLink: 'https://flowiseai.com',
                     }
                 }`
@@ -184,7 +184,7 @@ const chatwindowConfig = (isReact = false) => {
                 footer: {
                     textColor: '#303235',
                     text: 'Powered by',
-                    company: 'Flowise',
+                    company: 'preezie',
                     companyLink: 'https://flowiseai.com',
                 }
             }`
